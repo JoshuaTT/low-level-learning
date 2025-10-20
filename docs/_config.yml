@@ -12,3 +12,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+minima:
+  skin: dark
+  
