@@ -13,5 +13,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-minima:
-  hide_site_feed_link: true
+hide_site_feed_link: true
