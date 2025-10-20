@@ -1,4 +1,14 @@
-theme: jekyll/minima@d4d779a
+title: Your awesome title
 
-minima:
-  skin: dark
+author:
+  name: Josh Toye
+  email: by.josht@gmail.com
+
+description: >
+  A blog to document my systems programming learning journey.
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
