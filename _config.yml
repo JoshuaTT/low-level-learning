@@ -13,4 +13,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-hide_site_feed_link: true
+social_links:
+  hide_site_feed_link: true
